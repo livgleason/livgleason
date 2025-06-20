@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Olivia! 
+
+<h2> Data Science Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Computer Science Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <!--
 **livgleason/livgleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
