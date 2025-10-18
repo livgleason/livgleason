@@ -1,11 +1,11 @@
 <h1>Hi, I'm Olivia! 
 
-<h2> Data Science Projects:</h2>
+<h2> School Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/livgleason/Interactive-calculator)
 
-<h2> Computer Science Projects:</h2>
+<h2> Personal Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
