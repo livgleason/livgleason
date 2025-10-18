@@ -2,8 +2,8 @@
 
 <h2> School Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/livgleason/Interactive-calculator)
+- <b>Standard and Reverse Polish Notation Calculator</b>
+  - [Interactive Calculator](https://github.com/livgleason/Interactive-calculator)
 
 <h2> Personal Projects:</h2>
 
