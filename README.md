@@ -3,14 +3,11 @@
 <h2> School Projects:</h2>
 
 - <b>Standard and Reverse Polish Notation Calculator</b>
-  - [Interactive Calculator](https://github.com/livgleason/Interactive-calculator)
-
-<h2> Personal Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+  - [Interactive Calculator](https://github.com/livgleason/Interactive-calculator) 
+- <b>Sudoku Solver with Visual Interface</b>
+  - [Sudoku Solver](https://github.com/livgleason/Sudoku-solver) 
+- <b>Five Twelve Game (2048 Copycat)</b>
+  - [Five Twelve](https://github.com/livgleason/Five-Twelve-game) 
 <!--
 **livgleason/livgleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
