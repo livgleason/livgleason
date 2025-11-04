@@ -7,7 +7,12 @@
 - <b>Sudoku Solver with Visual Interface</b>
   - [Sudoku Solver](https://github.com/livgleason/Sudoku-solver) 
 - <b>Five Twelve Game (2048 Copycat)</b>
-  - [Five Twelve](https://github.com/livgleason/Five-Twelve-game) 
+  - [Five Twelve](https://github.com/livgleason/Five-Twelve-game)
+ 
+<h2> Personal Projects:</h2>
+
+- <b>Interactive ATP and WTA Tour Statistics Application</b>
+  - [Tennis Center](https://github.com/livgleason/TennisStats) 
 <!--
 **livgleason/livgleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
