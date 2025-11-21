@@ -11,6 +11,8 @@
  
 <h2> Personal Projects:</h2>
 
+- <b>Personal Website</b>
+  - [Portfolio](https://github.com/livgleason/TennisStats)
 - <b>Interactive ATP and WTA Tour Statistics Application</b>
   - [Tennis Center](https://github.com/livgleason/TennisStats) 
 <!--
