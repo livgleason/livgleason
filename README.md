@@ -16,7 +16,9 @@
 - <b>Interactive ATP and WTA Tour Statistics Application</b>
   - [Tennis Center](https://github.com/livgleason/TennisStats)
 - <b>NFL Fourth Down Analysis and Play Call Predictor</b>
-  - [Fourth Down Analysis](https://github.com/livgleason/Fourth-Down-Analysis) 
+  - [Fourth Down Analysis](https://github.com/livgleason/Fourth-Down-Analysis)
+- <b>Formula 1 Pit Stop Strategy Analysis</b>
+  - [Timing and Compound Optimizer](https://github.com/livgleason/F1PitOptimizer) 
 <!--
 **livgleason/livgleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
