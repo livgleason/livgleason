@@ -11,8 +11,6 @@
  
 <h2> Personal Projects:</h2>
 
-- <b>Personal Website</b>
-  - [Portfolio](https://github.com/livgleason/Personal-Website)
 - <b>Interactive ATP and WTA Tour Statistics Application</b>
   - [Tennis Center](https://github.com/livgleason/TennisStats)
 - <b>NFL Fourth Down Analysis and Play Call Predictor</b>
