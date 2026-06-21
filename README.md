@@ -18,7 +18,9 @@
 - <b>NFL Fourth Down Analysis and Play Call Predictor</b>
   - [Fourth Down Analysis](https://github.com/livgleason/Fourth-Down-Analysis)
 - <b>Formula 1 Pit Stop Strategy Analysis</b>
-  - [Timing and Compound Optimizer](https://github.com/livgleason/F1PitOptimizer) 
+  - [Timing and Compound Optimizer](https://github.com/livgleason/F1PitOptimizer)
+- <b>Convolutional Neural Network for Skin Cancer Detection</b>
+  - [Accessible Melanoma Detection Across Diverse Skin Tones](https://github.com/livgleason/deep-learning-project) 
 <!--
 **livgleason/livgleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
